@@ -10,9 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "bufferutil": "^4.0.8",
     "nuxt": "^3.12.2",
     "socket.io": "^4.7.5",
     "socket.io-client": "^4.7.5",
+    "utf-8-validate": "^5.0.10",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   }
